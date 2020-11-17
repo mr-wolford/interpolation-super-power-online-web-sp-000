@@ -1,3 +1,3 @@
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-colors
+puts colors
