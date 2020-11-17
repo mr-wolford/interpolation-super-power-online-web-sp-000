@@ -1,7 +1,7 @@
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-
-def display_rainbow
-  puts "R: #{colors}"
+def display_rainbow(colors)
+  puts "R: #{colors[0]"
 end
+
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 display_rainbow
