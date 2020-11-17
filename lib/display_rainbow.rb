@@ -4,4 +4,4 @@ end
 
 lucky = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-def display_rainbow(lucky)
+display_rainbow(lucky)
